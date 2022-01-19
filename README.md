@@ -11,6 +11,7 @@
 - 🛥 I'm also a Navy veteran.
 - 💻 I've worked as a system administrator in 10+ countries.
 - 🎓 I have 2 semesters left on my B.S. in Computer Science at [Old Dominion University](https://catalog.odu.edu/undergraduate/collegeofsciences/computerscience/computersc-bscs-fouryearplan/).
+    - [Here are the courses I've taken.](coursework.md)
 - 🎓 I've also completed an interdisciplinary minor in [Cybersecurity](https://catalog.odu.edu/undergraduate/schoolofcybersecurity/#cybersecurityinterdisciplinaryminortext).
 - ☕ I live and work in the Washington, D.C. Metro / Northern Virginia area.
 
